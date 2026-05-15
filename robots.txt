@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://helixoriginator.github.io/bengal-citizen-security-welfare-card/sitemap.xml
+
+# Crawl-delay (optional for non-Google bots)
+Crawl-delay: 5
